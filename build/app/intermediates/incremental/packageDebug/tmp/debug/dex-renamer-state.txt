@@ -1,0 +1,4 @@
+#Wed Nov 18 15:13:59 EST 2020
+base.0=/Users/danyal/flutter_projects/personal_expense/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
